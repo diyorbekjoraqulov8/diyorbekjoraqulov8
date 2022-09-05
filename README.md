@@ -12,3 +12,9 @@ I am FrontEnd Developer
    <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="35px" height="35px"></code>
    <code><img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" width="35px" height="35px"></code>
    <code><img src="https://www.nicepng.com/png/full/209-2091499_vue-router-vuex-logo.png" width="35px" height="35px"></code>
+   
+<br />
+
+- &nbsp; Current location: Tashkent, Uzbekistan
+- &nbsp; Ask me about anything, I am happy to help
+- &nbsp; How to reach me: [@diyorbek.web](https://instagram.com/diyorbek.web/)

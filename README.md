@@ -2,4 +2,4 @@
 
 I am FrontEnd Developer
 <br>
-<a href="mailto:diyorbekjoraqulov8@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50px"> </a>
+<a href="mailto:diyorbekjoraqulov8@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="35px"> </a>

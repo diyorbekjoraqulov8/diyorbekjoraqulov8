@@ -1,1 +1,1 @@
-### Hi I'm Diyorbek Juraqulov <img src="https://media.giphy.com/media/hvRJCLFzcasr4Ria7z/giphy.gif">
+### Hi I'm Diyorbek Juraqulov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">

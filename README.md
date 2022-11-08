@@ -3,7 +3,7 @@
 I am FrontEnd Developer
 <br>
 ### languages and tools I work with
-   <div style="display: flex; justify-content: space-between;">
+   <div style="display: flex; width: 100%; justify-content: space-between;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="35px" height="35px" display="inline">
         <img src="https://w7.pngwing.com/pngs/945/441/png-transparent-web-development-cascading-style-sheets-html-logo-css3-storm-blue-angle-text.png" width="35px" height="35px">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width="35px" height="35px">

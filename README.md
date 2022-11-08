@@ -3,7 +3,7 @@
 I am FrontEnd Developer
 <br><br>
 <a href="https://youtube.com/channel/UCB7lfhZI0XDAh-PlASRyjoA"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="35px"> </a>
-<a href="https://youtube.com/channel/UCB7lfhZI0XDAh-PlASRyjoA"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.m.wikinews.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3AInstagram-Icon.png&psig=AOvVaw353EBluQu2_JvT4460-5l0&ust=1668000145293000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKis2fPWnvsCFQAAAAAdAAAAABAH" width="35px"> </a>
+<a href="https://youtube.com/channel/UCB7lfhZI0XDAh-PlASRyjoA"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" width="35px"> </a>
 ### languages and tools I work with
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="35px" height="35px"></code>
    <code><img src="https://w7.pngwing.com/pngs/945/441/png-transparent-web-development-cascading-style-sheets-html-logo-css3-storm-blue-angle-text.png" width="35px" height="35px"></code>

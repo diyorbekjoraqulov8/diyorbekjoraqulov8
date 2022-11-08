@@ -1,7 +1,7 @@
 ### Hi I'm Diyorbek Juraqulov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 I am FrontEnd Developer
-<br><br>
+<br>
 ### languages and tools I work with
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="35px" height="35px"></code>
    <code><img src="https://w7.pngwing.com/pngs/945/441/png-transparent-web-development-cascading-style-sheets-html-logo-css3-storm-blue-angle-text.png" width="35px" height="35px"></code>

@@ -3,7 +3,7 @@
 I am FrontEnd Developer
 <br><br>
 <a href="https://youtube.com/channel/UCB7lfhZI0XDAh-PlASRyjoA"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="35px"> </a>
-<a href="https://youtube.com/channel/UCB7lfhZI0XDAh-PlASRyjoA"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="35px"> </a>
+<a href="https://youtube.com/channel/UCB7lfhZI0XDAh-PlASRyjoA"> <img src="[https://cdn-icons-png.flaticon.com/512/1384/1384060.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png)" width="35px"> </a>
 ### languages and tools I work with
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="35px" height="35px"></code>
    <code><img src="https://w7.pngwing.com/pngs/945/441/png-transparent-web-development-cascading-style-sheets-html-logo-css3-storm-blue-angle-text.png" width="35px" height="35px"></code>

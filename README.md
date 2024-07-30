@@ -1,4 +1,4 @@
-### Hi I'm Diyorbek Juraqulov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+![image](https://github.com/user-attachments/assets/9038480b-9586-457d-9a66-c13e1eb7e43b)### Hi I'm Diyorbek Juraqulov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 I am Fullstack Developer
 <br>
@@ -18,6 +18,7 @@ I am Fullstack Developer
 <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="30px" height="40px">
       <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/1815/formation-nuxtjs.png" width="40px" height="40px">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="40px" height="40px">
+      <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png)" width="40px" height="40px">
     </div>
 <br>
 

@@ -5,7 +5,6 @@ I am Fullstack Developer
 ### languages and tools I work with
 <br>
       <div style="display: flex;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="35px" height="35px" display="inline">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="30px" height="35px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="35px" height="35px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="35px" height="35px">
@@ -18,7 +17,7 @@ I am Fullstack Developer
 <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="30px" height="40px">
       <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/1815/formation-nuxtjs.png" width="40px" height="40px">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="40px" height="40px">
-      
+      <img src="[https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png](https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png)" width="40px" height="40px">
     </div>
 <br>
 

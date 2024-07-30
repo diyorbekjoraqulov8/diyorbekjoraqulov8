@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9038480b-9586-457d-9a66-c13e1eb7e43b)### Hi I'm Diyorbek Juraqulov
+### Hi I'm Diyorbek Juraqulov
 
 I am Fullstack Developer
 <br>

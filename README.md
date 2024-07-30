@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/9038480b-9586-457d-9a66-c13e1eb7e43b)### Hi I'm Diyorbek Juraqulov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 I am Fullstack Developer
 <br>

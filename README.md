@@ -18,7 +18,7 @@ I am Fullstack Developer
 <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="30px" height="40px">
       <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/1815/formation-nuxtjs.png" width="40px" height="40px">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="40px" height="40px">
-      <img src="https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png" width="40px" height="40px">
+      
     </div>
 <br>
 

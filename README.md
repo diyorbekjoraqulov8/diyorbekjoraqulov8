@@ -1,6 +1,6 @@
 ### Hi I'm Diyorbek Juraqulov
 
-I am Fullstack Developer
+I am Software Engineer
 <br>
 ### languages and tools I work with
 <br>
